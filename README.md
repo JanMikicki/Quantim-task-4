@@ -25,3 +25,6 @@ Data analisys is done in _quantum_task4_analysis.ipynb_ notebook and model train
 Solution report is in _solution_report.docx_.
 
 All the files produced by the notebooks can be found here: (https://drive.google.com/file/d/1NxKSmxy7l1SgvOVchVp7Ev9d-ojdYXs0/view?usp=sharing)
+
+## Solution
+Solution is described in solution_report.docx. To run/interact with the files click corresponding "open in Colab" button at the top of the notebooks.
